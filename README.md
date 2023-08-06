@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Ruveyda
-- 💞️ I’m looking to collaborate on open-source projects.
+- 💞 I’m looking to collaborate on open-source projects.
